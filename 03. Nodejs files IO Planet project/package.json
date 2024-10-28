@@ -1,0 +1,14 @@
+{
+  "name": "03.-nodejs-files-io-planet-project",
+  "version": "1.0.0",
+  "description": "https://exoplanetarchive.ipac.caltech.edu/docs/data.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.0"
+  }
+}
